@@ -1,1 +1,0 @@
-Podstawy algorytmów
